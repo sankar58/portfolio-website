@@ -3,7 +3,7 @@
 Welcome to my personal portfolio website! This site showcases my journey as a **Full Stack Developer** and **Machine Learning Enthusiast**, featuring my projects in the MERN stack and Python.
 
 ## 🚀 Live Demo
-**[Click Here to View Portfolio](https://sankar58.github.io/portfolio-website/)**
+**[Click Here to View Portfolio]([https://sankar58.github.io/portfolio-website/](https://sankar-portfolio-website.netlify.app/))**
 
 ## ✨ Features
 * **Modern UI:** Dark mode aesthetics with neon accents.
